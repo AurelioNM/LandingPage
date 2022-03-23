@@ -65,8 +65,11 @@ main button {
     }
 }
 @media (max-width: 600px) {
-    #Card {
+    .mobile-alignment {
         margin-left: 5%;
+    }
+    #Card {
+        margin-left: 6%;
         min-width: 115%;
     }
     .faq {
